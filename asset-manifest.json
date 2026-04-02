@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/taurus-time-helper/static/css/main.70216b1e.css",
-    "main.js": "/taurus-time-helper/static/js/main.cb579fab.js",
+    "main.js": "/taurus-time-helper/static/js/main.29015e51.js",
     "static/js/453.c7e90d6f.chunk.js": "/taurus-time-helper/static/js/453.c7e90d6f.chunk.js",
     "index.html": "/taurus-time-helper/index.html",
     "main.70216b1e.css.map": "/taurus-time-helper/static/css/main.70216b1e.css.map",
-    "main.cb579fab.js.map": "/taurus-time-helper/static/js/main.cb579fab.js.map",
+    "main.29015e51.js.map": "/taurus-time-helper/static/js/main.29015e51.js.map",
     "453.c7e90d6f.chunk.js.map": "/taurus-time-helper/static/js/453.c7e90d6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70216b1e.css",
-    "static/js/main.cb579fab.js"
+    "static/js/main.29015e51.js"
   ]
 }
