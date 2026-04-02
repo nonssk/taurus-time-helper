@@ -1,12 +1,11 @@
-import React from "react";
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { HashRouter, Routes, Route, Link } from "react-router-dom";
 import TimeImportIncentive from "./pages/TimeImportIncentive";
 import TimeImportDiligence from "./pages/TimeImportDiligence";
 import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter basename="/taurus-time-helper">
+    <HashRouter>
       <div className="min-h-screen bg-slate-100 text-slate-800">
         <nav className="bg-white border-b border-slate-200 p-4">
           <div className="max-w-5xl mx-auto flex gap-4">
@@ -47,7 +46,7 @@ function App() {
           />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
